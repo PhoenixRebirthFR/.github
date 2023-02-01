@@ -36,6 +36,11 @@ Dans ce cas la, deux solutions:
 Pour ce dernier point, je vous invite à créé des "issues" en mentionnant les gens :wink:  Ce sera plus simple pour n'avoir qu'un seul endroit où tout voir.
 
 
+## Je ne veux pas que mon code se retrouve sur Github
+
+C'est votre droit, et nous devons le respecter. Dans ce cas la, n'hésitez pas à ouvrir une issue en me mentionnant. Nous supprimeront le projet et j'enverrais le code source aux développeurs ayant contribué au projet afin qu'ils puissent jouir des mêmes droits que vous sur leur code source.
+
+
 ## Où sont les maps ?
 
 Comme expliqué, vous ne pouvez publier/vendre/partager que les choses que vous avez faites. Même si certains développeur ont parfois contribué aux maps, cela reste une exception.   
